@@ -1,3 +1,3 @@
-C dili kullanılarak yazılmıştır
+Written with C
 
-DevC++ idesinde çalıştırılması tavsiye edilir
+DevC++ ide is recommended
